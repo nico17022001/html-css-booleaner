@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  width: 100%;
+  height: 120px;
+  background-color: rgb(2, 157, 223);
+  background-image: url('../img/pattern.png');
+}
+
+header img{
+  width: 200px;
+  height: 200px;
+  padding-bottom: 40px;
+  margin-left: 15px;
+}
