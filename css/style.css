@@ -18,11 +18,11 @@ header img{
   margin-left: 15px;
 }
 
-main {
+main, .list{
   padding-left: 15px;
 }
 
-h1, .img-tim {
+h1, .img-tim, .txt, .list{
   padding-top: 10px;
 }
 
@@ -37,5 +37,9 @@ h1, .img-tim {
 .small {
   font-size: small;
   padding-bottom: 10px;
+}
+
+.yellow {
+  background-color: yellow;
 }
 
