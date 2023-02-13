@@ -17,3 +17,25 @@ header img{
   padding-bottom: 40px;
   margin-left: 15px;
 }
+
+main {
+  padding-left: 15px;
+}
+
+h1, .img-tim {
+  padding-top: 10px;
+}
+
+.txt-gray {
+  color: gray;
+}
+
+.txt-blue {
+  color: rgba(0, 157, 255, 0.637);
+}
+
+.small {
+  font-size: small;
+  padding-bottom: 10px;
+}
+
