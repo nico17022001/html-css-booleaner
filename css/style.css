@@ -22,9 +22,19 @@ main, .list{
   padding-left: 15px;
 }
 
-h1, .img-tim, .txt, .list{
+h1, table, .img-tim, .txt, .list{
   padding-top: 10px;
 }
+
+table{
+  width: 100vw;
+  text-align: left; 
+}
+
+thead {
+  background-color: rgb(0, 21, 255);
+}
+
 
 .txt-gray {
   color: gray;
@@ -43,3 +53,6 @@ h1, .img-tim, .txt, .list{
   background-color: yellow;
 }
 
+.blue {
+  background-color: aqua;
+}
