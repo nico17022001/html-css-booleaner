@@ -15,7 +15,7 @@ header img{
   width: 200px;
   height: 200px;
   padding-bottom: 40px;
-  margin-left: 15px;
+  padding-left: 15px;
 }
 
 main, .list{
@@ -35,6 +35,9 @@ thead {
   background-color: rgb(0, 21, 255);
 }
 
+footer {
+  padding-left: 15px;
+}
 
 .txt-gray {
   color: gray;
@@ -55,4 +58,29 @@ thead {
 
 .blue {
   background-color: aqua;
+}
+
+.low{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.little-pic{
+  width: 200px;
+  height: 150px;
+  color: white;
+  
+}
+
+.monitor, .graph{
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.monitor{
+  background-image: url('../img/monitor.jpg');
+}
+
+.graph{
+  background-image: url('../img/graph.jpg');
 }
